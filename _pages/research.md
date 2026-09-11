@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-My research has moved through seven overlapping subject areas over three decades, beginning with parallel algorithm implementation on transputers and arriving at SoC based multi-core systems. Each area below lists the topics studied and the theses, journal articles, conference papers and patents that came out of them.
+My research has moved through seven overlapping subject areas over three decades, beginning with parallel algorithm implementation on transputers and arriving at SoC based multi-core systems and modern network architectures. Each area below lists the topics studied and the theses, journal articles, conference papers and patents that came out of them.
 
 ---
 
@@ -21,12 +21,23 @@ My research has moved through seven overlapping subject areas over three decades
 
 **Theses**
 
+- Alasmar, M., *FPM based partitioning and assignment algorithm for data parallel applications on heterogeneous platforms*, MSc Thesis, July 2022.
 - Kocaay, A.B., *Boosting performance of HLS optimization for SoC based hardware accelerators*, MSc Thesis, January 2020.
 - Toka, A., *Design and implementation of power quality monitoring system for distribution systems*, MSc Thesis, September 2019.
 - Yilmaz, E., *Feasibility study for dynamic context switching in partially reconfigurable FPGAs*, MSc Thesis, September 2019.
 - Cilasın, R., *An application-aware DRAM controller*, MSc Thesis, September 2019.
 - Bekdemir, L., *Hybrid probabilistic timing analysis with extreme value theory and copulas*, MSc Thesis, September 2019.
 - Uslu, Ç., *Optimizing core signal processing functions on a superscalar SIMD architecture*, MSc Thesis, August 2019.
+
+**Journal articles**
+
+- Kocaay, B. and Bazlamaçcı, C.F., "Semi-autonomous polyhedral optimization framework for HLS-based SoC acceleration", submitted to *PeerJ Computer Science* (2026), in review.
+- Bekdemir, L. and Bazlamaçcı, C.F., "Hybrid probabilistic timing analysis with extreme value theory and copulas", *Microprocessors and Microsystems*, 89, Article No. 104419 (2022).
+
+**Conference papers**
+
+- Alasmar, M. and Bazlamaçcı, C.F., "Workload distribution on heterogeneous platforms", CITS 2021, İstanbul (Turkey), 149–153, IEEE (2021).
+- Bekdemir, L. and Bazlamaçcı, C.F., "Hybrid probabilistic timing analysis", UYMS'21, İzmir (Turkey), November 2021. (in Turkish)
 
 ---
 
@@ -40,6 +51,7 @@ My research has moved through seven overlapping subject areas over three decades
 **Theses**
 
 - Say, F., *A reconfigurable computing platform for real time embedded applications*, PhD Thesis, METU, September 2011.
+- Dönüm, N., *Ownership-inspired typestate analysis for memory safety in C/C++ code with IPC primitives*, MSc Thesis, IZTECH, July 2026.
 - Sert, K., *NFA based regular expression matching on FPGA*, MSc Thesis, September 2018.
 - Gözütok, A., *Data plane-based defense system against DDoS attacks for software defined networks*, MSc Thesis, March 2018.
 - Efe, O., *Tool support for worst case end to end delay analysis of AFDX networks*, MSc Thesis, February 2016.
@@ -60,6 +72,7 @@ My research has moved through seven overlapping subject areas over three decades
 
 - Yıldırım, S. and Bazlamaçcı, C.F., "A true random number generator and test platform built in FPGA", ISCTurkey 2012, Ankara (Turkey), 262–267 (2012).
 - Uğurel, G. and Bazlamaçcı, C.F., "Context switching time and memory footprint comparison of Xilkernel and µC/OS-II on MicroBlaze", ELECO 2011, Bursa (Turkey), v.2, 52–55 (2011).
+- Sert, K. and Bazlamaçcı, C.F., "NFA based regular expression matching on FPGA", CITS 2021, İstanbul (Turkey), 144–148, IEEE (2021).
 - Tengilimoğlu, B. and Bazlamaçcı, C.F., "Partial reconfiguration on a real-time target detection and tracking system", SIU 2014, Trabzon (Turkey), April 2014.
 - Uğurel, G. and Bazlamaçcı, C.F., "Comparison of real time operating systems on MicroBlaze", *Otomasyon*, Vol. 236, 316–322, Bileşim Yayıncılık (2012). (in Turkish)
 
@@ -126,6 +139,7 @@ My research has moved through seven overlapping subject areas over three decades
 
 **Conference papers**
 
+- Akyüz, G. and Bazlamaçcı, C.F., "Sleep-enabled LoRaWAN gateway via spreading-factor clustering", SIU 2026, İstanbul (Turkey), July 2026. (in Turkish)
 - Soltani, A. and Bazlamaçcı, C.F., "HyFI: Hybrid flow initiation in software defined networks", ICICS 2014, Irbid (Jordan), April 2014.
 - Alizadeh, E.J. and Bazlamaçcı, C.F., "Life time sensitive weighted clustering on wireless sensor networks", SENSORNETS 2014, Lisbon (Portugal), 41–51 (2014).
 - Çelik, C. and Bazlamaçcı, C.F., "Effect of application mapping on network-on-chip performance", PDP 2012, Munich (Germany), 465–472 (2012).
