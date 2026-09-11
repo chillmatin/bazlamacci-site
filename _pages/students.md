@@ -7,6 +7,30 @@ nav: true
 nav_order: 3
 ---
 
+<a id="invitation"></a>
+
+## Invitation to new research students
+
+Under my supervision, thesis topics in the following research areas can be studied leading to an MSc or PhD degree. Details are available on request by e-mail.
+
+- Computer systems and architecture
+- Embedded systems
+- Reconfigurable architectures
+- System-on-chip (SoC) based applications
+- High speed switching circuits
+- Data networks and network protocols
+- Parallel optimization algorithms
+- Studies on variants of the minimum spanning tree problem (MST)
+- Parallel and distributed graph algorithms (parallel MST, parallel shortest path, etc.)
+
+Candidates who would like to carry out research on the above topics should have:
+
+- a strong interest in algorithm design, HW/SW design and implementation, networks, graphs, optimization and parallel computing, as appropriate;
+- a strong mathematical background;
+- sound knowledge of one of the high level programming languages.
+
+---
+
 ## Current MSc students
 
 | Student | Thesis topic | Expected |
@@ -134,26 +158,3 @@ Where former students are today.
 - **Erhan Asım Öztürk** (2001) — Systems Engineering Manager, STM (Turkey)
 - **Dilek Ertem** (2001) — Technical Proposal Manager, Aselsan (Turkey)
 
----
-
-<a id="invitation"></a>
-
-## Invitation to new research students
-
-Under my supervision, thesis topics in the following research areas can be studied leading to an MSc or PhD degree. Details are available on request by e-mail.
-
-- Computer systems and architecture
-- Embedded systems
-- Reconfigurable architectures
-- System-on-chip (SoC) based applications
-- High speed switching circuits
-- Data networks and network protocols
-- Parallel optimization algorithms
-- Studies on variants of the minimum spanning tree problem (MST)
-- Parallel and distributed graph algorithms (parallel MST, parallel shortest path, etc.)
-
-Candidates who would like to carry out research on the above topics should have:
-
-- a strong interest in algorithm design, HW/SW design and implementation, networks, graphs, optimization and parallel computing, as appropriate;
-- a strong mathematical background;
-- sound knowledge of one of the high level programming languages.

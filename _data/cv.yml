@@ -124,41 +124,67 @@ cv:
         start_date: 1986
         end_date: 1988
 
-    Funded Projects:
-      - label: Architecture and Performance Benchmarking Studies, Phase 2
-        details: >
-          Project Manager and Principal Investigator. METU DSIM Research Project No. 2020-03-01-2-00-001,
-          with Thales LAS France Inc. November 2019 – July 2020.
-      - label: Architecture and Performance Benchmarking Studies
-        details: >
-          Project Manager and Principal Investigator. METU DSIM Research Project No. 2019-03-01-32-00-04,
-          with Thales LAS France Inc. November 2018 – August 2019.
-      - label: Monitoring and recording of low voltage distribution system
-        details: Investigator. TÜBİTAK 1503 project No. 115E134, with Aselsan Inc. February 2016 – March 2019.
-      - label: Pre-analysis of a defence system
-        details: >
-          Investigator. Feasibility study for air and missile defence system, for Aselsan Inc. via ParGe A.Ş.
-          January 2015 – September 2015.
-      - label: Communications infrastructure analysis
-        details: >
-          Principal Investigator for the communications part, within 'Development of sensor fusion algorithms'.
-          METU DSIM Project No. SST-IA-2012-97, for Aselsan Inc. November 2012 – April 2014.
-      - label: Pipelined divide-and-conquer multiplier design for finite field GF(2^m)
-        details: >
-          Principal Investigator. Based on irreducible trinomials. METU Scientific Research Fund,
-          Project No. BAP-03-01-2010-01. February 2010 – January 2011.
-      - label: Narrowband command and control waveform development, Phase 2
-        details: Investigator. METU DSIM Project No. 09-03-01-2-00-22, for Aselsan Inc. 2010–2011.
-      - label: Narrowband command and control waveform development
-        details: Investigator. METU DSIM Project No. 08-03-01-2-00-14, for Aselsan Inc. 2009–2010.
-      - label: Domain analysis for weapon systems software
-        details: >
-          Investigator. Development of a reference software architecture. METU DSIM Project
-          No. 07-03-02-1-00-19, for Aselsan Inc. 2007–2008.
-      - label: Parallel graph algorithm for the rectilinear Steiner tree problem
-        details: >
-          Principal Investigator. Development and performance evaluation. METU Scientific Research Fund,
-          Project No. BAP-2008-03-01-06. January – December 2008.
+    Projects:
+      - name: Architecture and Performance Benchmarking Studies, Phase 2
+        start_date: 2019-11
+        end_date: 2020-07
+        summary: Project Manager and Principal Investigator.
+        highlights:
+          - METU DSIM Research Project No. 2020-03-01-2-00-001, with Thales LAS France Inc.
+      - name: Architecture and Performance Benchmarking Studies
+        start_date: 2018-11
+        end_date: 2019-08
+        summary: Project Manager and Principal Investigator.
+        highlights:
+          - METU DSIM Research Project No. 2019-03-01-32-00-04, with Thales LAS France Inc.
+      - name: Monitoring and recording of low voltage distribution system
+        start_date: 2016-02
+        end_date: 2019-03
+        summary: Investigator.
+        highlights:
+          - TÜBİTAK 1503 project No. 115E134, with Aselsan Inc.
+      - name: Pre-analysis of a defence system
+        start_date: 2015-01
+        end_date: 2015-09
+        summary: Investigator. Feasibility study for an air and missile defence system.
+        highlights:
+          - For Aselsan Inc. via ParGe A.Ş.
+      - name: Communications infrastructure analysis
+        start_date: 2012-11
+        end_date: 2014-04
+        summary: Principal Investigator for the communications part, within the project 'Development of sensor fusion algorithms'.
+        highlights:
+          - METU DSIM Project No. SST-IA-2012-97, for Aselsan Inc.
+      - name: Pipelined divide-and-conquer multiplier design for finite field GF(2^m)
+        start_date: 2010-02
+        end_date: 2011-01
+        summary: Principal Investigator. Multiplier design based on irreducible trinomials.
+        highlights:
+          - METU Scientific Research Fund, Project No. BAP-03-01-2010-01.
+      - name: Narrowband command and control waveform development, Phase 2
+        start_date: 2010
+        end_date: 2011
+        summary: Investigator.
+        highlights:
+          - METU DSIM Project No. 09-03-01-2-00-22, for Aselsan Inc.
+      - name: Narrowband command and control waveform development
+        start_date: 2009
+        end_date: 2010
+        summary: Investigator.
+        highlights:
+          - METU DSIM Project No. 08-03-01-2-00-14, for Aselsan Inc.
+      - name: Domain analysis for weapon systems software
+        start_date: 2007
+        end_date: 2008
+        summary: Investigator. Development of a reference software architecture.
+        highlights:
+          - METU DSIM Project No. 07-03-02-1-00-19, for Aselsan Inc.
+      - name: Parallel graph algorithm for the rectilinear Steiner tree problem
+        start_date: 2008-01
+        end_date: 2008-12
+        summary: Principal Investigator. Algorithm development and performance evaluation.
+        highlights:
+          - METU Scientific Research Fund, Project No. BAP-2008-03-01-06.
 
     Administrative Duties:
       - label: Elected Senate Member
@@ -187,14 +213,21 @@ cv:
         details: Middle East Technical University, EE Department, November 2014 – September 2019.
 
     Honors and Awards:
-      - label: 2014 Annual High Performance Award
-        details: Middle East Technical University.
-      - label: Supervisor of the Best Thesis of the Year Award 2010–2011
-        details: Middle East Technical University, Graduate School of Natural and Applied Sciences.
-      - label: PhD Scholarship
-        details: Higher Education Council, Turkey, 1992–1996.
-      - label: Undergraduate Education Scholarship — High Achievement Award
-        details: University Admissions Exam, Sabancı Holdings PLC, Turkey, 1984–1988.
+      - title: Annual High Performance Award
+        awarder: Middle East Technical University
+        date: "2014"
+      - title: Supervisor of the Best Thesis of the Year Award
+        awarder: Middle East Technical University, Graduate School of Natural and Applied Sciences
+        date: "2011"
+        summary: Awarded for the PhD thesis of Oğuzhan Erdem, 2010–2011.
+      - title: PhD Scholarship
+        awarder: Higher Education Council, Turkey
+        date: "1992"
+        summary: Doctoral scholarship held 1992–1996.
+      - title: Undergraduate Education Scholarship — High Achievement Award
+        awarder: Sabancı Holdings PLC, Turkey
+        date: "1984"
+        summary: Awarded on the basis of the University Admissions Exam; held 1984–1988.
 
     Professional Memberships:
       - label: Institute of Electrical and Electronics Engineers (IEEE)

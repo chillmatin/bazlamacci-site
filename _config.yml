@@ -13,9 +13,7 @@ description: >
   Research in computer networks, computer architecture, reconfigurable and embedded
   systems, graph algorithms and optimization.
 footer_text: >
-  © Cüneyt F. Bazlamaçcı — Computer Engineering Department, Izmir Institute of Technology.
-  Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and the
-  <a href="https://github.com/alshedivat/al-folio" target="_blank">al-folio</a> theme.
+  Computer Engineering Department, Izmir Institute of Technology.
 keywords: computer networks, FPGA, embedded systems, IP lookup, network-on-chip, graph algorithms, optimization, IZTECH
 lang: en
 icon: 🖧

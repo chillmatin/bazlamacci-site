@@ -2,16 +2,17 @@
 layout: page
 permalink: /research/
 title: research
-description: Research results organised by subject area, from parallel algorithm implementation through to SoC based multi-core systems.
+description: Research results organised by subject area.
 nav: true
 nav_order: 1
 ---
 
-My research has moved through seven overlapping subject areas over three decades, beginning with parallel algorithm implementation on transputers and arriving at SoC based multi-core systems and modern network architectures. Each area below lists the topics studied and the theses, journal articles, conference papers and patents that came out of them.
+My research spans seven overlapping subject areas developed over three decades, beginning with parallel algorithm implementation on transputers and arriving at SoC based multi-core systems and modern network architectures. They are listed here from the most recent back to the earliest; each area gives the topics studied and the theses, journal articles, conference papers and patents that came out of them.
 
 ---
 
-## 7 · SoC based multi-core systems
+## SoC based multi-core systems
+<p class="text-muted"><em>Most recent · 2019–present</em></p>
 
 - Efficient design and implementation of embedded systems with FPGAs and SoCs
 - Use of partial reconfiguration in FPGAs
@@ -41,7 +42,8 @@ My research has moved through seven overlapping subject areas over three decades
 
 ---
 
-## 6 · Microprocessor systems, embedded systems, reconfigurable systems
+## Microprocessor, embedded and reconfigurable systems
+<p class="text-muted"><em>2011–present</em></p>
 
 - Efficient design and implementation of embedded systems with FPGAs
 - Issues and components towards security of embedded systems
@@ -78,7 +80,8 @@ My research has moved through seven overlapping subject areas over three decades
 
 ---
 
-## 5 · High performance computer network architectures and design
+## High performance computer network architectures
+<p class="text-muted"><em>2009–2015</em></p>
 
 - High performance implementation of network protocols
 - High performance and cost effective design of core router functionalities using special data structures — fast packet processing, fast packet classification, implementation on FPGAs
@@ -115,7 +118,8 @@ My research has moved through seven overlapping subject areas over three decades
 
 ---
 
-## 4 · Modern computer network architectures, protocols and applications
+## Modern network architectures, protocols and applications
+<p class="text-muted"><em>2001–2026</em></p>
 
 - Cloud architecture
 - Software defined networks (SDN)
@@ -148,7 +152,8 @@ My research has moved through seven overlapping subject areas over three decades
 
 ---
 
-## 3 · Graph theory and optimization
+## Graph theory and optimization
+<p class="text-muted"><em>2001–2008</em></p>
 
 - Graph algorithms
 - Optimization theory and mathematical programming
@@ -177,7 +182,8 @@ My research has moved through seven overlapping subject areas over three decades
 
 ---
 
-## 2 · Network modelling, planning, design and optimization
+## Network modelling, planning and design
+<p class="text-muted"><em>1994–2001</em></p>
 
 Synthesis and design of communication and computer networks using graph theoretical techniques, optimization methods and advanced data structures.
 
@@ -206,7 +212,8 @@ Synthesis and design of communication and computer networks using graph theoreti
 
 ---
 
-## 1 · Parallel algorithm implementation
+## Parallel algorithm implementation
+<p class="text-muted"><em>Earliest · 1991–1992</em></p>
 
 FFT implementation and performance evaluation on a multi-core computer system using transputers and the programming language Occam.
 
