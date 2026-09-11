@@ -90,3 +90,80 @@
   top: -5rem;
   visibility: hidden;
 }
+
+/* CV date column: the badge sits in a table cell whose 1px padding, combined
+   with the heading's own top margin in the adjacent column, leaves the badge
+   a few pixels above the entry title it labels. Nudge the first row's cell
+   down so the badge and the title share a top edge. */
+.cv .date-column table.table-cv tbody tr:first-child td {
+  padding-top: 5px;
+}
+
+.cv .date-column {
+  /* Centred badges of differing width leave a ragged left edge down the
+     page; align the column's contents on a common left margin instead. */
+  text-align: left;
+
+  .badge {
+    min-width: 0 !important;
+    white-space: nowrap;
+    font-size: 0.68rem;
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
+  }
+
+  /* The table's own cell padding pushed the widest badge past the column
+     edge; the badge is already flush left, so drop it. */
+  table.table-cv {
+    width: 100%;
+
+    td {
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
+
+  /* Below the theme's md breakpoint the row stacks, but the column keeps its
+     col-xs-2 width (~17%), squeezing the date and location into a ~75px
+     ribbon. Give it the full width it visually occupies once stacked. */
+  @media (max-width: 767.98px) {
+    flex: 0 0 100%;
+    max-width: 100%;
+
+    table.table-cv {
+      width: auto;
+    }
+  }
+
+  /* The theme sets these `nowrap`, so an over-long place name runs under the
+     entry text instead of being contained. Allow wrapping and keep them
+     inside the column; all but the longest still fit on one line. */
+  p.location {
+    font-size: 0.62rem;
+    line-height: 1.35;
+    white-space: normal;
+  }
+}
+
+/* The theme's 2/12 date column is narrower than several of the place names,
+   which the theme sets `nowrap`, so they spilled into the entry text. Widen
+   the column and narrow the body to match, keeping the row a 12-column grid
+   on the breakpoints where the two sit side by side. */
+@media (min-width: 768px) {
+  /* Only in the narrow side column is a place name at risk of running under
+     the entry text, so confine the hard break to that layout; when the row
+     stacks on phones the full width is available and words stay intact. */
+  .cv .list-group-item .row > .date-column p.location {
+    overflow-wrap: anywhere;
+  }
+
+  .cv .list-group-item .row > .date-column {
+    flex: 0 0 20%;
+    max-width: 20%;
+  }
+
+  .cv .list-group-item .row > .date-column + [class*="col-"] {
+    flex: 0 0 80%;
+    max-width: 80%;
+  }
+}
