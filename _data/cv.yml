@@ -65,9 +65,8 @@ cv:
       - company: Middle East Technical University, Northern Cyprus Campus
         position: Visiting faculty (Asst. Prof. Dr.), Electrical and Electronics Engineering Department
         location: Kalkanlı, Güzelyurt, TRNC
-        start_date: 2009-02
-        end_date: 2009-06
-        summary: Visiting Scholar.
+        date: 2009-02
+        summary: Visiting Scholar, February – June 2009.
 
       - company: Middle East Technical University
         position: Full-time faculty (Asst. Prof. Dr.), Electrical and Electronics Engineering Department
@@ -78,8 +77,7 @@ cv:
       - company: Turkish Land Forces
         position: Military service — Media Department, General Plan and Principles Division
         location: Ankara, Turkey
-        start_date: 1998
-        end_date: 1998
+        date: 1998
 
       - company: TÜBİTAK-BİLTEN Information Technologies and Electronics Institute
         position: Part-time researcher, Communication Systems and Data Networks Research Group
@@ -144,9 +142,8 @@ cv:
         highlights:
           - TÜBİTAK 1503 project No. 115E134, with Aselsan Inc.
       - name: Pre-analysis of a defence system
-        start_date: 2015-01
-        end_date: 2015-09
-        summary: Investigator. Feasibility study for an air and missile defence system.
+        date: 2015-01
+        summary: Investigator, January – September 2015. Feasibility study for an air and missile defence system.
         highlights:
           - For Aselsan Inc. via ParGe A.Ş.
       - name: Communications infrastructure analysis
@@ -180,9 +177,8 @@ cv:
         highlights:
           - METU DSIM Project No. 07-03-02-1-00-19, for Aselsan Inc.
       - name: Parallel graph algorithm for the rectilinear Steiner tree problem
-        start_date: 2008-01
-        end_date: 2008-12
-        summary: Principal Investigator. Algorithm development and performance evaluation.
+        date: 2008-01
+        summary: Principal Investigator, January – December 2008. Algorithm development and performance evaluation.
         highlights:
           - METU Scientific Research Fund, Project No. BAP-2008-03-01-06.
 
