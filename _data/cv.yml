@@ -1,0 +1,134 @@
+cv:
+  name: Cüneyt F. Bazlamaçcı
+  label: Professor of Computer Engineering
+  email: cuneytbazlamacci@iyte.edu.tr
+  location: İzmir, Turkey
+  image: ""
+  summary: >
+    Professor in the Computer Engineering Department at the Izmir Institute of Technology.
+    Research in communication and computer networks, computer systems architecture and
+    hardware, and graph algorithms and optimization.
+
+  address:
+    street: Computer Engineering Department, Gülbahçe Campus
+    city: Urla, İzmir
+    postalCode: "35430"
+    countryCode: TR
+
+  sections:
+    Education:
+      - institution: University of Manchester Institute of Science and Technology (UMIST)
+        location: Manchester, England
+        url: https://www.manchester.ac.uk/discover/history-heritage/history/umist/
+        area: Computing
+        studyType: PhD
+        end_date: 1996-12
+        highlights:
+          - "Thesis: Optimised network design — minimum spanning trees and minimum concave-cost problems."
+
+      - institution: Middle East Technical University
+        location: Ankara, Turkey
+        url: http://www.metu.edu.tr/
+        area: Electrical and Electronics Engineering
+        studyType: MSc
+        end_date: 1991-09
+        highlights:
+          - "Thesis: A Fast Fourier Transform implementation and performance evaluation on a transputer based parallel computer system."
+
+      - institution: Middle East Technical University
+        location: Ankara, Turkey
+        url: http://www.metu.edu.tr/
+        area: Electrical and Electronics Engineering
+        studyType: BSc
+        end_date: 1988-07
+
+      - institution: Ankara Atatürk Anadolu High School
+        location: Ankara, Turkey
+        area: High School Diploma
+        studyType: Diploma
+        end_date: 1984
+
+    Experience:
+      - company: Izmir Institute of Technology
+        position: Professor, Department of Computer Engineering
+        location: Urla, İzmir, Turkey
+        start_date: 2020
+
+      - company: Middle East Technical University
+        position: Associate Professor, Department of Electrical and Electronics Engineering
+        location: Ankara, Turkey
+        start_date: 2010
+        end_date: 2020
+
+      - company: Middle East Technical University
+        position: Assistant Professor, Department of Electrical and Electronics Engineering
+        location: Ankara, Turkey
+        start_date: 1997
+        end_date: 2010
+
+      - company: Headquarters of the Turkish Land Forces
+        position: Military service
+        location: Turkey
+        start_date: 1998
+        end_date: 1998
+
+      - company: Tübitak Bilten Information Technologies and Electronics Research Institute
+        position: Part-time researcher, Communications Systems and Networks Group
+        location: Ankara, Turkey
+        start_date: 1997
+        end_date: 1998
+        summary: Now Tübitak Uzay.
+
+      - company: Middle East Technical University
+        position: Instructor, Department of Electrical and Electronics Engineering
+        location: Ankara, Turkey
+        start_date: 1997
+        end_date: 1997
+        summary: Six-month appointment.
+
+      - company: Middle East Technical University
+        position: Research Assistant, Department of Electrical and Electronics Engineering
+        location: Ankara, Turkey
+        start_date: 1992
+        end_date: 1996
+        summary: On leave for carrying out research at UMIST, Manchester, UK, leading to the degree of PhD.
+
+      - company: UMIST
+        position: Teaching Assistant, Department of Computation
+        location: Manchester, England
+        start_date: 1993
+        end_date: 1995
+
+      - company: Middle East Technical University
+        position: Research Assistant, Department of Electrical and Electronics Engineering
+        location: Ankara, Turkey
+        start_date: 1990
+        end_date: 1992
+
+      - company: Aselsan Military Electronics, Inc.
+        position: R&D Engineer, Control Systems Laboratory
+        location: Ankara, Turkey
+        start_date: 1988
+        end_date: 1990
+
+    Professional Activities and Memberships:
+      - label: Association for Computing Machinery (ACM)
+        details: Member
+      - label: Institute of Electrical and Electronics Engineers (IEEE)
+        details: Member
+      - label: IEEE Computer Society
+        details: Member
+      - label: IEEE Communications Society
+        details: Member
+      - label: Operational Research Society (ORS)
+        details: Member
+      - label: Chamber of Electrical Engineers (EMO)
+        details: Member
+
+    Research Interests:
+      - label: Communication and computer networks
+        details: Synthesis and design, architectures and protocols, fast packet switching and processing systems.
+      - label: Computer systems architecture and hardware
+        details: Microprocessor systems and applications, embedded systems, reconfigurable systems, FPGA/SoC based systems and applications.
+      - label: Graph algorithms and applications
+        details: Optimization theory and mathematical programming, algorithms and advanced data structures.
